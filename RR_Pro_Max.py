@@ -1,0 +1,3 @@
+import wow
+wow.Main()
+
